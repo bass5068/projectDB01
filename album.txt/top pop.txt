@@ -1,0 +1,43 @@
+INSERT INTO nsongs (song_name, album_id, songLink, release_date) 
+VALUES ('ดาวหางฮัลเลย์',44, 5,'https://open.spotify.com/embed/track/56wDFSIa9Tr7zbEXUVMwjP?utm_source=generator&theme=0', '2023-01-01'),
+ ('You & Me',44, 5,'https://open.spotify.com/embed/track/6xXCn7H2Yl8SDD6jxo5SpN?utm_source=generator&theme=0', '2023-01-01'),
+ ('Standing Next To You',44, 5,'https://open.spotify.com/embed/track/2KslE17cAJNHTsI2MI0jb2?utm_source=generator&theme=0', '2023-01-01'),
+ ('Shall We',44, 5,'https://open.spotify.com/embed/track/42TLIkJ2kFSY0WlCBjqzhB?utm_source=generator&theme=0', '2023-01-01'),
+ ('ยินดี',44, 5,'https://open.spotify.com/embed/track/5DMALWZOGyyc7noptzvF2j?utm_source=generator&theme=0', '2023-01-01'),
+ ('รักแรก',44, 5,'https://open.spotify.com/embed/track/5Zlwu2g4rzTNfyu28L1bWv?utm_source=generator&theme=0', '2023-01-01'),
+ ('จังหวะตกหลุมรัก',44, 5,'https://open.spotify.com/embed/track/7KmY6wBpheP60rFEJPJBqN?utm_source=generator&theme=', '2023-01-01'),
+ ('กลิ่นดอกไม้',44, 5,'https://open.spotify.com/embed/track/5OaXaynJZgklXEwzhouey5?utm_source=generator&theme=0', '2023-01-01'),
+ ('Cruel Summer',44, 5,'https://open.spotify.com/embed/track/1BxfuPKGuaTgP7aM0Bbdwr?utm_source=generator&theme=0', '2023-01-01'),
+ ('พิจารณา',44, 5,'https://open.spotify.com/embed/track/3XCoEJvCYqTbM8bhples8N?utm_source=generator&theme=0', '2023-01-01'),
+ ('TOO MUCH',44, 5,'https://open.spotify.com/embed/track/0rKWJnmo6Q0ovoPOLoLm0t?utm_source=generator&theme=0', '2023-01-01'),
+ ('วาสนาผู้ใด',44, 5,'https://open.spotify.com/embed/track/1atD9QMSoZjgKiUKKopZBW?utm_source=generator&theme=0', '2023-01-01'),
+ ('ข้างกัน (city)',44, 5,'https://open.spotify.com/embed/track/3vdZ30MzgeTe5PiJXEmqjr?utm_source=generator&theme=0', '2023-01-01'),
+ ('ยื้้อ',44, 5,'https://open.spotify.com/embed/track/4gwYEnoxp8QDqrNwWNsGq9?utm_source=generator&theme=0', '2023-01-01'),
+ ('ลั่นทม',44, 5,'https://open.spotify.com/embed/track/2uZ6hKHh0UjZMz0YKzCLT1?utm_source=generator&theme=0', '2023-01-01'),
+ ('เธอคือกาแฟในตอนเช้า',44, 5,'https://open.spotify.com/embed/track/7C4tRbJ0J24NaftPTMU1Fd?utm_source=generator&theme=0', '2023-01-01'),
+ ('Seven',44, 5,'https://open.spotify.com/embed/track/7x9aauaA9cu6tyfpHnqDLo?utm_source=generator&theme=0', '2023-01-01'),
+ ('เลี้ยงไข้(fever)'44, 5,'https://open.spotify.com/embed/track/2xv83TpufWS243tCZm5jx6?utm_source=generator&theme=0', '2023-01-01'),
+ ('ใครเพื่อนแก',44, 5,'https://open.spotify.com/embed/track/47WfK6QKlLwIOxJaonJ3bA?utm_source=generator&theme=0', '2023-01-01'),
+ ('สลักจิต',44, 5,'https://open.spotify.com/embed/track/03Yp2uEOtPGHQ6E9XSjmyv?utm_source=generator&theme=0', '2023-01-01'),
+ ('กำแพงหัวใจ',44, 5,'https://open.spotify.com/embed/track/5BmF05GWZpmm5JZ5p3yMJr?utm_source=generator&theme=0', '2023-01-01'),
+ ('บรรรยากาศ',44, 5,'https://open.spotify.com/embed/track/56n3cbPJeypX5NyqgsmpnZ?utm_source=generator&theme=0', '2023-01-01'),
+ ('ขอให้เธอใจดี',44, 5,'https://open.spotify.com/embed/track/3y5HhSSAyYGtOkP6mhKs6z?utm_source=generator&theme=0', '2023-01-01'),
+ ('ไม่เป็นรอง',44, 5,'https://open.spotify.com/embed/track/38uarkAk3Y13onWxwj0MIq?utm_source=generator&theme=0', '2023-01-01');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

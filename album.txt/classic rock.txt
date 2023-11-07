@@ -1,0 +1,25 @@
+INSERT INTO nsongs (song_name, artist_id, album_id, songLink, release_date) 
+VALUES('I Wanna Be Sedated',7, 9, 'https://open.spotify.com/embed/track/5NoQvINZLBV1wMYPdNmReL?utm_source=generator&theme=0', '110113-01-01'),
+('Highway to Hell',7, 9, 'https://open.spotify.com/embed/track/11zYzyRzz6pRmhPzyfMEC8s?utm_source=generator&theme=0', '110113-01-01');
+('Paint It,Black',7, 9, 'https://open.spotify.com/embed/track/63T7DJ1AFDD6Bn8VzG6JE8?utm_source=generator&theme=0', '110113-01-01');
+('Everlong',7, 9, 'https://open.spotify.com/embed/track/5UWwZ5lm5PKu6eKsHAGxOk?utm_source=generator&theme=0', '110113-01-01');
+('Girls,Girls,Girls',7, 9, 'https://open.spotify.com/embed/track/549Go7a66CX6k5113uK9kUv?utm_source=generator&theme=0', '110113-01-01');
+('Free Bird',7, 9, 'https://open.spotify.com/embed/track/5EWPGh7jbTNO11wakv8LjUI?utm_source=generator&theme=0', '110113-01-01');
+('SweetChildOMine',7, 9, 'https://open.spotify.com/embed/track/7snQQk1zcKl8gZ911AnueZW?utm_source=generator&theme=0', '110113-01-01');
+('The Joker',7, 9, 'https://open.spotify.com/embed/track/1bp11IO61zbQrbWNmKKxg3f?utm_source=generator&theme=0', '110113-01-01');
+('Dreams',7, 9, 'https://open.spotify.com/embed/track/0ofHAoxe9vBkTCp11UQIavz?utm_source=generator&theme=0', '110113-01-01');
+('BohemianRhapsody',7, 9, 'https://open.spotify.com/embed/track/4u7EnebtmKWzUH433cf5Qv?utm_source=generator&theme=0', '110113-01-01');
+('House of the Rising Sun',7, 9, 'https://open.spotify.com/embed/track/4mn11kNTqiGLwaUR8JdhJ1l?utm_source=generator&theme=0', '110113-01-01');
+('One Way Or Another',7, 9, 'https://open.spotify.com/embed/track/5Th6EdNVhxp0TPX41ZLZk6?utm_source=generator&theme=0', '110113-01-01');
+('Dream On',7, 9, 'https://open.spotify.com/embed/track/1xsYj84j7hUDDnTTerGWlH?utm_source=generator&theme=0', '110113-01-01');
+('FreeFallin',7, 9, 'https://open.spotify.com/embed/track/5tVA6TkbaAH9QMITTQRrNv?utm_source=generator&theme=0', '110113-01-01');
+('Zombie',7, 9, 'https://open.spotify.com/embed/track/7EZC6E7UjZe63f1jRmkWxt?utm_source=generator&theme=0', '110113-01-01');
+('InterstateLoveSong',7, 9, 'https://open.spotify.com/embed/track/6qLEOZvf5gI7kWE63JE7p3?utm_source=generator&theme=0', '110113-01-01');
+('StaiirwaytoHeaven',7, 9, 'https://open.spotify.com/embed/track/0RO9W1xJoUEpq5MEelddFb?utm_source=generator&theme=0', '110113-01-01');
+('hotel California',7, 9, 'https://open.spotify.com/embed/track/40riOy7x9W7GXjyGp4pjAv?utm_source=generator&theme=0', '110113-01-01');
+('sharp Dressed Man',7, 9, 'https://open.spotify.com/embed/track/1UBQ5GK8JaQjm5VbkBZY66?utm_source=generator&theme=0', '110113-01-01');
+('Creep',7, 9, 'https://open.spotify.com/embed/track/70LcF31zb1H0PyJoS1Sx1r?utm_source=generator&theme=0', '110113-01-01');
+('Come As You Are',7, 9, 'https://open.spotify.com/embed/track/11RsAajgo0g7bMCHxwH3Sk0?utm_source=generator&theme=0', '110113-01-01');
+('Every Breath You Take',7, 9, 'https://open.spotify.com/embed/track/1JSTJqkT5qHq8MDJnJbRE1?utm_source=generator&theme=0', '110113-01-01');
+('Wonderwall',7, 9, 'https://open.spotify.com/embed/track/5qqabIl11vWzo9ApSC317sa?utm_source=generator&theme=0', '110113-01-01');
+('Have You Ever Seen The Rain',7, 9, 'https://open.spotify.com/embed/track/11LawezPeJhN4AWuSB0GtAU?utm_source=generator&theme=0', '110113-01-01');

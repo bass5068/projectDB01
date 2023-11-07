@@ -1,0 +1,35 @@
+INSERT INTO nsongs (song_name, artist_id, album_id, songLink, release_date) VALUES
+('name','2', '4', 'link', '2023-01-01'),
+('name','2', '4', 'link', '2023-01-01');
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5zBAiLz5CVwrgeA7UGQZli?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+freehand artist_id = 6, album_id = 7
+
+
+
+INSERT INTO nsongs (song_name, artist_id, album_id, songLink, release_date) VALUES
+
+('มนุษย์ต่างดาว', 6, 7, 'https://open.spotify.com/embed/track/07iP1H2BcKqGdTtC1PvJuW?utm_source=generator&theme=0', '2023-01-01'),
+('ดอกไม้ของดาวหาง', 6, 7, 'https://open.spotify.com/embed/track/2Wi2Tk4V4ctEZNkHkQBsZ2?utm_source=generator&theme=0', '2023-01-01'),
+('เพลงรักเก่า', 6, 7, 'https://open.spotify.com/embed/track/3D4LNA6jMVxSpBZL2s1mtB?utm_source=generator&theme=0', '2023-01-01'),
+('จากความฝัน', 6, 7, 'https://open.spotify.com/embed/track/1RShvB1H5D9FUl1PSpb1Y0?utm_source=generator&theme=0', '2023-01-01'),
+('กอด', 6, 7, 'https://open.spotify.com/embed/track/3WbX7P3kknAxgJDMcLfATy?utm_source=generator&theme=0', '2023-01-01'),
+('คุก', 6, 7, 'https://open.spotify.com/embed/track/0RhBih8MEfh5VywgcTDMO1?utm_source=generator&theme=0', '2023-01-01'),
+('แบก', 6, 7, 'https://open.spotify.com/embed/track/3R4B85NQjiN9M85qeFbz5z?utm_source=generator&theme=0', '2023-01-01'),
+('รสหวาน', 6, 7, 'https://open.spotify.com/embed/track/2Ab1HQjbMcqHY3TkTycrYr?utm_source=generator&theme=0', '2023-01-01'),
+('ความลับของดวงจันทร์', 6, 7, 'https://open.spotify.com/embed/track/2GMENhG1ga12aWFMfzq9vN?utm_source=generator&theme=0', '2023-01-01'),
+('ประตู', 6, 7, 'https://open.spotify.com/embed/track/1UGxnjm9m69ijoETOan7FV?utm_source=generator&theme=0', '2023-01-01'),
+('ขอให้เธอใจดี', 6, 7, 'https://open.spotify.com/embed/track/3y5HhSSAyYGtOkP6mhKs6z?utm_source=generator&theme=0', '2023-01-01'),
+('กลับมากอด', 6, 7, 'https://open.spotify.com/embed/track/5agF3UjBMa5odD5Vn0vWMI?utm_source=generator&theme=0', '2023-01-01'),
+('ประตู', 6, 7, 'https://open.spotify.com/embed/track/1UdZKGB338G1HgyFFKH3KT?utm_source=generator&theme=0', '2023-01-01'),
+('เท่านั้น', 6, 7, 'https://open.spotify.com/embed/track/0v4xRAtin3ReYESy7VBNQU?utm_source=generator&theme=0', '2023-01-01'),
+('เพลงของลม', 6, 7, 'https://open.spotify.com/embed/track/6PlVxZ3M7foYdfKxCqW6sy?utm_source=generator&theme=0', '2023-01-01'),
+('ชายไร้เสียง', 6, 7, 'https://open.spotify.com/embed/track/5FNiHt3vfS05Dz7fyHwjiO?utm_source=generator&theme=0', '2023-01-01'),
+('เพลงนก','6', '7', 'https://open.spotify.com/embed/track/0f9FP6uBr4AP4VfsGKDkvA?utm_source=generator&theme=0', '2023-01-01'),
+('จงรัก','6', '7', 'https://open.spotify.com/embed/track/1h2sfjoJsNyFbYnWkcK1rk?utm_source=generator&theme=0', '2023-01-01'),
+('อีกไม่นาน','6', '7', 'https://open.spotify.com/embed/track/2PYFwaRQzNTqBuCo5Tkrqm?utm_source=generator&theme=0', '2023-01-01'),
+('Alway Stay','6', '7', 'https://open.spotify.com/embed/track/3DrfMuHhH58UCvHdwIHEGE?utm_source=generator&theme=0', '2023-01-01'),
+('นักเดินทาง','6', '7', 'https://open.spotify.com/embed/track/3IJAATLqYyTSFVZNypxX9E?utm_source=generator&theme=0', '2023-01-01'),
+('ควันบุหรี่','6', '7', 'https://open.spotify.com/embed/track/7HE3PG8490sUPjLxs2s5bu?utm_source=generator&theme=0', '2023-01-01'),
+('เสียง','6', '7', 'https://open.spotify.com/embed/track/5SshCEaP8Xb9H4W2TmlGnq?utm_source=generator&theme=0', '2023-01-01');

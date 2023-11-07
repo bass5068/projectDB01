@@ -1,0 +1,44 @@
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0i0DGNy8bHVaqdlxS1Gs14?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Welcome to the Safeplanet
+
+safeplanet artist_id = 2, album_id = 4
+
+('name','2', '4', 'link', '2023-01-01'),
+('name','2', '4', 'link', '2023-01-01');
+
+INSERT INTO nsongs (song_name, artist_id, album_id, songLink, release_date) 
+VALUES ('ข้างกาย(With You)', 2, 4, 'https://open.spotify.com/embed/track/2RJ7Q3gHb6cOeNBioSARni?utm_source=generator&theme=0', '2023-01-01'),
+('คำตอบ(Answer)', 2, 4, 'https://open.spotify.com/embed/track/1lD1Pjy7rNDOny7nFqmUHJ?utm_source=generator&theme=0', '2023-01-01'),
+('กอดความเจ็บช้ำ(Carry)',2, 4, 'https://open.spotify.com/embed/track/13y3BLdlSdVH7wJwavs06O?utm_source=generator&theme=0', '2023-01-01'),
+('ถ้าเธอได้รู้(The secret)',2, 4, 'https://open.spotify.com/embed/track/3ezPA51UaG3H3SiHvebCoZ?utm_source=generator&theme=0', '2023-01-01'),
+('เพียงเธอ(Always)',2, 4, 'https://open.spotify.com/embed/track/79YugcEzo00SmZXLchKPnI?utm_source=generator&theme=0', '2023-01-01'),
+('ดินแดน(Din Dan)',2, 4, 'https://open.spotify.com/embed/track/2FHegFORo2cE19Rph47N0d?utm_source=generator&theme=0', '2023-01-01'),
+('ปล่อยมือ',2, 4, 'https://open.spotify.com/embed/track/5jmubjyS1YMOR9kRQ7nrTC?utm_source=generator&theme=0', '2023-01-01'),
+('ห้องกระจก(Mirror Room)',2, 4, 'https://open.spotify.com/embed/track/1UE3B69id4Qv0sKT01DIcj?utm_source=generator&theme=0', '2023-01-01'),
+('พริบตา(The Wind)',2, 4, 'https://open.spotify.com/embed/track/5D6MoGIPfQ0RkBKvjL7BFd?utm_source=generator&theme=0', '2023-01-01'),
+('ในเมือใจ(The Heart)',2, 4, 'https://open.spotify.com/embed/track/54pdLPTcKbxnhPPl55GIET?utm_source=generator&theme=0', '2023-01-01'),
+('Bon Voyager',2, 4, 'https://open.spotify.com/embed/track/4AExsmDSOv9BLmawx1E1wo?utm_source=generator&theme=0', '2023-01-01'),
+('วันที่สวยงาม(To The Day)',2, 4, 'https://open.spotify.com/embed/track/6W5Tq51QcLMFjAC9o9Guv5?utm_source=generator&theme=0', '2023-01-01'),
+('ดวงตะวัน(The Sun)',2, 4, 'https://open.spotify.com/embed/track/5wQVDxuBzKIkOKeEZ5z15p?utm_source=generator&theme=0', '2023-01-01'),
+('นอนไม่หลับ(Melatonin)',2, 4, 'https://open.spotify.com/embed/track/1r14Iy5VMnGSdcmO0uBBD1?utm_source=generator&theme=0', '2023-01-01'),
+('โลกใบใหม่(New World)',2, 4, 'https://open.spotify.com/embed/track/2Jueqv4Xe5hOyfkJkmxc9Z?utm_source=generator&theme=0', '2023-01-01'),
+('ในเมื่อใจ(The Heart)',2, 4, 'https://open.spotify.com/embed/track/6MNthanqTTBTVolB10nYJx?utm_source=generator&theme=0', '2023-01-01'),
+('อย่างน้อย(Sunset)',2, 4, 'https://open.spotify.com/embed/track/4J7V9rdO8333tCx2ae0GPW?utm_source=generator&theme=0', '2023-01-01'),
+('รู้เธอยังกังวล(My Worry)',2, 4, 'https://open.spotify.com/embed/track/4S7NOz8sNXrQMuhOe40xmR?utm_source=generator&theme=0', '2023-01-01'),
+('ไม่เคยเปลี่ยน(The Mountain)',2, 4, 'https://open.spotify.com/embed/track/3xvD8G9wyfUcg12wB3XPbc?utm_source=generator&theme=0', '2023-01-01'),
+('สิ่งที่เธอฝากไว้(The Maze)',2, 4, 'https://open.spotify.com/embed/track/4vbMwvzeMSb55xhYyHr0JR?utm_source=generator&theme=0', '2023-01-01'),
+('พริบตา(The Wind)',2, 4, 'https://open.spotify.com/embed/track/2SSuHzbGx25kskhfywKjDi?utm_source=generator&theme=0', '2023-01-01'),
+('Youth',2, 4, 'https://open.spotify.com/embed/track/5vFrxevFVahDwmxPqq3HEU?utm_source=generator&theme=0', '2023-01-01'),
+('In The Woods',2, 4, 'https://open.spotify.com/embed/track/06GDssALoQZlWB2nGvYmKZ?utm_source=generator&theme=0', '2023-01-01'),
+('กล่องดำ',2, 4, 'https://open.spotify.com/embed/track/4wnGhlkvuqXXBVKXAqHRLR?utm_source=generator&theme=0', '2023-01-01'),
+('โอยา(Oheya)',2, 4, 'https://open.spotify.com/embed/track/2u8b4HlUMwXjuASAUYYr8A?utm_source=generator&theme=0', '2023-01-01'),
+('ตัดสินใจ(Again)',2, 4, 'https://open.spotify.com/embed/track/7cHjV7hYpXcyWURGMlkbYD?utm_source=generator&theme=0', '2023-01-01'),
+('ระบาย(Paint)',2, 4, 'https://open.spotify.com/embed/track/18ATogjAUKhT1ksVtbW4Eg?utm_source=generator&theme=0', '2023-01-01'),
+('แสงสว่าง(Strobe Light)',2, 4, 'https://open.spotify.com/embed/track/5HuN7tYVSFinUjlH5iNoJQ?utm_source=generator&theme=0', '2023-01-01'),
+('ลอง(Try)',2, 4, 'https://open.spotify.com/embed/track/0PqKLnkA6bbVmf6n2VWi9x?utm_source=generator&theme=0', '2023-01-01'),
+('เพียงเธอ(Always)',2, 4, 'https://open.spotify.com/embed/track/6tiIxJzW7hfekdro7s3aE7?utm_source=generator&theme=0', '2023-01-01');
+
+
+
+
